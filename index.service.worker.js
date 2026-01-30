@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1769763526|249270326';
+const CACHE_VERSION = '1769768607|107414714';
 /** @type {string} */
 const CACHE_PREFIX = 'github_pages-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
