@@ -1,2 +1,2 @@
 # gupikstudio.github.io
-github pages front-end web site
+github pages front-end web site🌐
